@@ -1,0 +1,4 @@
+# Koetomo-Emulator-Bypass
+通話アプリ-koetomoをPC上のエミュレーターで起動できるようにするプログラムをpythonとjavascriptで実装しました。
+koetomoのJavaソースコード内にあるEmulatorDetectorクラスの関数をbypassできます。
+事前にfrida-serverをエミュレータ内で挿入、起動させておく必要があります。
