@@ -1,5 +1,5 @@
 # Koetomo-Emulator-Bypass
 通話アプリ-koetomoは通常、PC上のエミュレーターで起動できないように設計されています。
-そこで、NoxやBruestacksなどのエミュレーターで起動できるようにするプログラムをpythonとjavascriptで実装しました。
+そこで、NoxやBluestacksなどのエミュレーターで起動できるようにするプログラムをpythonとjavascriptで実装しました。
 koetomoのAPKのJavaソースコード内にあるEmulatorDetectorクラスの関数をbypassできます。
 事前にfrida-serverをエミュレータ内で挿入、起動させておく必要があります。
